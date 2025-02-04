@@ -80,3 +80,4 @@ para publicar en las plataformas de Android
 
 seguir la documentacion <a href="https://developer.apple.com/account">PlayConsole</a>
 para publicar en las plataformas de Android
+
